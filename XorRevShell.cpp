@@ -13,7 +13,7 @@ using namespace std;
 
 #pragma comment(lib, "ws2_32.lib")    // Link the ws2_32.lib library
 
-// Set the IP address and port of your netcat server
+// Set the IP address and port of your server
 const char* HOST = "172.20.35.55";  // Remote host IP address
 const int PORT = 4444;              // Remote host port number
 
