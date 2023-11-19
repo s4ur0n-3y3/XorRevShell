@@ -84,7 +84,7 @@ int main()
     {
         try
         {
-            // Connect to the netcat server
+            // Connect to the server
             SOCKET sockfd;
             struct sockaddr_in serverAddr;
 
